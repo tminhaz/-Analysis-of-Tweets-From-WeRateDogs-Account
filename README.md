@@ -1,4 +1,4 @@
-he tweet archive of Twitter user @dog rates, better known as WeRateDogs, was the dataset I worked on wrangling (and analysing and displaying). The whole wrangling process has divided into three main steps.
+The tweet archive of Twitter user @dog rates, better known as WeRateDogs, was the dataset I worked on wrangling (and analysing and displaying). The whole wrangling process has divided into three main steps.
 
 - Gathering
 - Assessing
